@@ -1,0 +1,24 @@
+.form-control{
+	
+  width: 450px;
+  height: 45px;
+  vertical-align: middle;
+  opacity: 0.5;
+  
+}
+
+.question{
+	
+	opacity: 0.5;
+	
+}
+
+.form-contact{
+	
+  width: 250px;
+  height: 45px;
+  vertical-align: middle;
+  opacity: 0.4;
+  
+}
+

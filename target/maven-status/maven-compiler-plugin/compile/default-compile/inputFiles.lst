@@ -1,0 +1,17 @@
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/converter/ChallengeConverter.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/HomeController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/repository/ChallengeRepository.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/AdminController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/entity/Checkpoints.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/repository/DreamRunRepository.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/entity/Contact.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/entity/Challenge.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/app/AppInitializer.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/CalculatorController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/entity/Time.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/DreamRunController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/ContactController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/app/AppConfig.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/repository/CalculatorRepository.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/controllers/CalendarController.java
+/home/marek/Pulpit/TestApp/AppForRunners/src/main/java/pl/coderslab/entity/DreamRun.java

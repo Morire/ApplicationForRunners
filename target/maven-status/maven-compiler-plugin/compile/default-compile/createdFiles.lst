@@ -1,0 +1,17 @@
+pl/coderslab/app/AppInitializer.class
+pl/coderslab/entity/Time.class
+pl/coderslab/controllers/ContactController.class
+pl/coderslab/controllers/HomeController.class
+pl/coderslab/repository/ChallengeRepository.class
+pl/coderslab/entity/DreamRun.class
+pl/coderslab/entity/Challenge.class
+pl/coderslab/controllers/DreamRunController.class
+pl/coderslab/converter/ChallengeConverter.class
+pl/coderslab/entity/Contact.class
+pl/coderslab/entity/Checkpoints.class
+pl/coderslab/repository/DreamRunRepository.class
+pl/coderslab/app/AppConfig.class
+pl/coderslab/controllers/AdminController.class
+pl/coderslab/controllers/CalculatorController.class
+pl/coderslab/repository/CalculatorRepository.class
+pl/coderslab/controllers/CalendarController.class
